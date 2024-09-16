@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class HelloWorld {
+public class Dunot {
     public static void main(String[] args) throws Exception {
         int k;
         double A = 0, B = 0, i, j;
