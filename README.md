@@ -19,3 +19,5 @@ Passos para executá-lo:
 4. Vá para o caminho onde você copiou o arquivo do Donut.
 5. Execute o seguinte comando: `java Donut`.
 6. Pronto, divirta-se com sua Rosquinha 3D!
+
+![gif](ezgif-2-d407931647.gif)
