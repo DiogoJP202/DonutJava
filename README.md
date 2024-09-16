@@ -1,5 +1,5 @@
 # DunotJava
-3D Dunot made with java.
+3D Dunot made with java. (╥_╥)
 
 Steps to run it:
 1. Make sure to have Java and JavaC intalled in your pc. To check, run: `java -version` and `javac -version` on cmd or terminal.
